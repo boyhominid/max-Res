@@ -1,0 +1,13 @@
+
+
+[id="T3057851291"] .page-content {
+	background-color: #baccc3;
+}
+
+[id="T3057851291"].page {
+	min-height: var(--viewport-height);
+}
+
+[id="T3057851291"] .page-layout {
+	padding: 3.1rem;
+}
